@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAEF-411E
+
+ Directory of C:\Git\start
+
+08/08/2016  10:42    <DIR>          .
+08/08/2016  10:42    <DIR>          ..
+08/08/2016  10:31                 7 README.md
+08/08/2016  10:31                 5 test.txt
+08/08/2016  10:42                 0 test2.txt
+               3 File(s)             12 bytes
+               2 Dir(s)  51,769,872,384 bytes free
